@@ -5,3 +5,5 @@ My academic project is already existing on my desktop, but cannot be published b
 - Nearest Neighbour
 - Simulated Annealing
 - Genetic Algorithm
+
+All mentioned algorithms are implemented in Python

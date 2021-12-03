@@ -1,2 +1,2 @@
 # Traveling-Salesman-Problem
-Under construction. It will have been updated by 30.11.2021
+My academic project is already existing on my desktop, but cannot be published before evaluation. The purpose of this repository is information for viewers that I am acknoweledged with this topic.

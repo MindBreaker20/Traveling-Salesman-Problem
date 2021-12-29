@@ -1,4 +1,3 @@
-# Author: Bartłomiej Jamiołkowski
 # Libraries
 from random import choice
 import pandas as pd

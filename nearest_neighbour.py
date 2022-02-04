@@ -4,7 +4,7 @@ import numpy as np
 from operator import itemgetter
 
 # Import Excel file into Python
-file_name, sheet = "Dane_TSP_127.xlsx", "Arkusz1"
+file_name, sheet = "TSP.xlsx", "Arkusz1"
 data = pd.read_excel(file_name, sheet_name = sheet, engine = 'openpyxl')
 
 m = np.delete(data.to_numpy(), 0, 1) # The first arrays column removal, because it contains indexes

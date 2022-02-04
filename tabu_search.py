@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 # Import an Excel file into Python
-file_name, sheet = "Dane_TSP_127.xlsx", "Arkusz1"
+file_name, sheet = "TSP.xlsx", "Arkusz1"
 data = pd.read_excel(file_name, sheet_name = sheet, engine = 'openpyxl')
 
 # Setting of the stop criterion

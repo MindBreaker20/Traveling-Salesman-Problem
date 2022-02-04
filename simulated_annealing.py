@@ -5,7 +5,7 @@ import numpy as np
 from math import exp, sqrt
 
 # Import an Excel file into Python
-file_name, sheet = "Dane_TSP_48.xlsx", "Arkusz1"
+file_name, sheet = "TSP.xlsx", "Arkusz1"
 data = pd.read_excel(file_name, sheet_name = sheet, engine = 'openpyxl')
 
 # Getting initial solution

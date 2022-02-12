@@ -1,4 +1,3 @@
-# Author: Bartłomiej Jamiołkowski
 # Libraries
 from random import shuffle, choice, randint, random
 import pandas as pd
